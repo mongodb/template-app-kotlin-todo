@@ -1,4 +1,9 @@
-# Realm Kotlin SDK Template App
+> [!Warning]
+> Atlas App Services has reached its end-of-life status and is no longer actively supported by MongoDB.
+
+<del>
+
+  # Realm Kotlin SDK Template App
 
 > [!WARNING]
 > As of September 2024, Atlas Device SDKs are deprecated. Atlas Device SDKs
